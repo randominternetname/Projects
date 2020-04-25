@@ -1,3 +1,6 @@
+""" This python file creates a Discord bot whose sole purpose is to roll dice of user specified sides."""
+
+
 import discord
 from random import randrange
 import re

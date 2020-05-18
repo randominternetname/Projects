@@ -1,2 +1,2 @@
 # Projects
-Just a place for me to put some side projects
+The title says it all.

@@ -12,3 +12,5 @@ MTA - Data Cleaning and Plotting NYC subway ridership data before and after Covi
 
 Investigation - How to account for false negatives and positives
 
+QuantumComputing_IBMQ.py  - Code from April 2019 for running local and remote simulations as well as actual IBMQ quantum calculations
+
